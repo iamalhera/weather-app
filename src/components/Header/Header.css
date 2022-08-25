@@ -1,0 +1,9 @@
+.header{
+    display : flex ;
+    align-items: center;
+}
+.heading{
+    margin-left: 20px ;
+    color: #333333;
+
+}
